@@ -3,12 +3,13 @@ button {
   cursor: pointer;
   background-color: #000;
   padding: 50px;
-  font-size: 16px;
+  font-size: 30px;
 }
 
 button:hover {
-  background-color: #372f10;
+  background-color: #c30000;
   border: none;
+  transform: translateX(500px);
 }
 
 /*# sourceMappingURL=index.b2d9cf43.css.map */

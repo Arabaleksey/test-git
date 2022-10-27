@@ -2,10 +2,11 @@ button{
     padding: 50px;
     background-color: black;
     color: white;
-    font-size: 16px;    
+    font-size: 30px;    
     cursor: pointer;
 }
 button:hover{
-    background-color: rgb(55, 47, 16);
+    background-color: rgb(195, 0, 0);
     border:none;
+    transform: translateX(500px);
 }
