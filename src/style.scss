@@ -1,12 +1,37 @@
-button{
-    padding: 50px;
-    background-color: black;
-    color: white;
-    font-size: 30px;    
-    cursor: pointer;
-}
-button:hover{
-    background-color: rgb(195, 0, 0);
-    border:none;
-    transform: translateX(500px);
-}
+// .btn{
+//     padding: 50px;
+//     background-color: black;
+//     color: white;
+//     font-size: 30px;    
+//     cursor: pointer;
+// }
+// .block{
+//     color:blue;
+// }
+// .block.active{
+//     color:red;
+// }
+// button:hover{
+//     transform: translateX(500px);
+// }
+
+// form{
+//     max-width: 380px;
+//     margin: auto;
+//     display: flex;
+//     flex-direction: column;
+//     background-color: gray;
+//     padding: 20px;
+//     margin-top: 130px;
+// }
+// .error{
+//     display: none;
+//     color:red;
+// }
+// .error--show{
+//     display: block;
+// }
+// .error--none{
+//     display: none;
+// }
+
